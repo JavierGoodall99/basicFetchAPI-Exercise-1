@@ -1,0 +1,34 @@
+{
+    "laptop":[
+        {
+            "id": 1,
+            "brand": "Lenovo",
+            "serial number": "53959879",
+            "username": "JG1999"
+        },
+        {
+            "id": 2,
+            "brand": "Dell",
+            "serial number": "99896562",
+            "username": "BF2001"
+        },
+        {
+            "id": 3,
+            "brand": "Asus",
+            "serial number": "85924638",
+            "username": "KL1998"
+        },
+        {
+            "id": 4,
+            "brand": "HP",
+            "serial number": "45995864",
+            "username": "AW2002"
+        },
+        {
+            "id": 5,
+            "brand": "Acer",
+            "serial number": "36595889",
+            "username": "GR2000"
+        }
+    ]
+}
